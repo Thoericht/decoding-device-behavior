@@ -1,0 +1,9 @@
+﻿*.pbix.user
+*.pbit
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+data/*.csv
+*.csv
+.DS_Store
+Thumbs.db
