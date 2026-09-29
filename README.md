@@ -10,7 +10,7 @@
 
 *Device models show modest differences in app engagement, while absolute device activity remains broadly similar.*
 
----
+--- 
 
 ## Project overview
 
