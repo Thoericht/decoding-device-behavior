@@ -2,7 +2,7 @@
 
 📱 A Power BI dashboard analyzing mobile device telemetry to reveal usage patterns, feature adoption, and technical KPIs.
 
-![User Intensity and Relative App Engagement dashboard](https://raw.githubusercontent.com/Thoericht/decoding-device-behavior/main/04_screenshots/user-intensity-and-relative-app-engagement.png)
+![User Intensity and Relative App Engagement dashboard](https://raw.githubusercontent.com/Thoericht/decoding-device-behavior/main/04_screenshots/user-intensity-and-relative-app-engagement.png) 
 
 *Main view: distribution of user intensity and relative app engagement across light, moderate, and heavy users.*
 
