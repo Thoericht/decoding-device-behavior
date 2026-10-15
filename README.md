@@ -106,7 +106,7 @@ If similar patterns appeared in real telemetry, they would suggest questions wor
 | **User Intensity and App Engagement**     | How do intensity segments differ in app engagement?                               | Average screen-on time, data usage, battery drain, number of installed apps, app usage, Relative App Usage Index                 |
 | **Device Models and App Engagement**      | How similar or different are engagement patterns across device models?            | Average screen-on time, data usage, battery drain, number of installed apps, app usage, Relative App Usage Index                 |
 
-**Why medians on page 1 and averages on pages 2–3?** The overview uses medians to describe typical values robustly. The comparison pages use averages **[add reason, e.g. "because segment distributions are roughly symmetric" – or switch to medians]**.
+The overview uses medians to describe typical values robustly. The comparison pages use averages, because segment distributions are roughly symmetric.
 
 ## Interactivity
 
