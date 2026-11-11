@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that translates mobile-device telemetry into user segments, engagement patterns and hypotheses about app usage, data consumption and battery performance.
 
-> **Data note:** The underlying Kaggle dataset is **synthetic** (see [Data citation](#data-citation)). The findings below describe patterns in this dataset; they are not evidence about real users.
+Data note: The underlying Kaggle dataset appears to be synthetic: it is small (700 rows), has no missing values and contains logically inconsistent records (see below). Its description says it was designed for implementing machine learning algorithms and is not a reliable source for a paper or article (see Data citation). The findings below describe patterns in this dataset; they are not evidence about real users.
 
 ## Interactive Distributions and Medians
 
@@ -36,7 +36,7 @@ App Usage Time (min/day) ÷ Screen-On Time (min/day)
 
 A value of `0.86x` means that recorded app usage is 0.86 times the recorded screen-on time.
 
-In **132 of 700 records (18.9 %)** the index exceeds `1.00x` (maximum 1.32x), which is logically impossible if app time is part of screen-on time. Because the dataset is synthetic and the two time metrics are not constrained as parts of one time budget, the metric is shown as a **relative index**, not a percentage share. No values were capped or altered.
+In **132 of 700 records (18.9 %)** the index exceeds `1.00x` (maximum 1.32x), which is logically impossible if app time is part of screen-on time. Because the dataset appears to be synthetic and the two time metrics do not seem to be constrained as parts of one time budget, the metric is shown as a relative index, not a percentage share. No values were capped or altered.
 
 ## User Intensity and App Engagement
 
